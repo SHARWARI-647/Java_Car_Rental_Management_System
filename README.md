@@ -37,16 +37,16 @@ This is a desktop-based **Car Rental Management System** built using **Java Swin
 <img src="Screenshot/Screenshot (24).png" width="700" height="700">
 
 **Usage**
--Admin can add cars using the top form in the Admin tab.
--Customer can book a car from the available list in the Customer tab.
--After booking, the car becomes unavailable and the booking is recorded.
--Both cars and bookings are stored in text files for persistence.
+- Admin can add cars using the top form in the Admin tab.
+- Customer can book a car from the available list in the Customer tab.
+- After booking, the car becomes unavailable and the booking is recorded.
+- Both cars and bookings are stored in text files for persistence.
 
 **Future Enhancements**
--Add Update/Delete Car functionality for Admin.
--Add search and filter options for cars and bookings.
--Include GUI improvements for better user experience.
--Use a database instead of text files for more robust data handling.
+- Add Update/Delete Car functionality for Admin.
+- Add search and filter options for cars and bookings.
+- Include GUI improvements for better user experience.
+- Use a database instead of text files for more robust data handling.
 
 **Author**
 Developed by Sharwari Ajay Rahangdale
