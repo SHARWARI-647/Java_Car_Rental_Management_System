@@ -33,8 +33,8 @@ This is a desktop-based **Car Rental Management System** built using **Java Swin
 <img src="Screenshot/Screenshot (25).png" width="700" height="700">
 
 **Customer Panel – Book Car**  
-<img src="Screenshot/Screenshot (23).png" width="100" height="200">
-<img src="Screenshot/Screenshot (24).png" width="100" height="200">
+<img src="Screenshot/Screenshot (23).png" width="700" height="700">
+<img src="Screenshot/Screenshot (24).png" width="700" height="700">
 
 **Usage**
 -Admin can add cars using the top form in the Admin tab.
